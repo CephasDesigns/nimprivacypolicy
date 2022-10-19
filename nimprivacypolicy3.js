@@ -1,0 +1,1 @@
+document.write("<div>Let's print an additional DIV here</div>");
